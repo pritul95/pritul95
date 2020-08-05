@@ -40,6 +40,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Refreshable Boto3 Session](https://pritul95.github.io/blogs/boto3/2020/08/01/refreshable-boto3-session/)
 <!-- BLOG-POST-LIST:END -->
 
 ---
