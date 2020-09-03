@@ -51,6 +51,7 @@
 
 ### 📕 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [How to create aws websocket api gateway?](https://pritul95.github.io/blogs/aws/2020/09/02/aws-websocket-api/)
 - [Refreshable Boto3 Session](https://pritul95.github.io/blogs/boto3/2020/08/01/refreshable-boto3-session/)
 <!-- BLOG-POST-LIST:END -->
 
