@@ -1,9 +1,8 @@
 ### Hi there, I'm Ritul Patel 👋
 
 ## I'm Software Engineer by day and Entrepreneur at Heart!
-- 🔭 I’m currently working on KloudOptimize (An open source solution for managing and optimizing any cloud infrastructure)
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🥅 2021 Goals: Contribute more to Open Source projects and learn Machine Learning & Deep Learning
 - 💬 Ask me about world and cloud 😀
 
 ### Connect with me:
