@@ -1,5 +1,8 @@
 ### Hi there, I'm Ritul Patel 👋
 
+<img align="right" src="https://raw.githubusercontent.com/pritul95/pritul95/master/work.gif" alt="Hola Coders" width="500" height="350"/>
+
+
 ## I'm Software Engineer by day and Entrepreneur at Heart!
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2021 Goals: Contribute more to Open Source projects and learn Machine Learning & Deep Learning
