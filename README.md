@@ -59,8 +59,6 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=pritul95&count_private=true&show_icons=true&hide=stars,contribs,prs,issues&hide_border=true" />
-
 
 [website]: https://pritul95.github.io
 [twitter]: https://twitter.com/pritul95
