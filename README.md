@@ -5,13 +5,12 @@
 
 ## I'm Software Engineer by day and Entrepreneur at Heart!
 - 🌱 I’m currently learning everything 🤣
-- 🥅 2021 Goals: Contribute more to Open Source projects and learn Machine Learning & Deep Learning
+- 🥅 Goals: Contribute more to Open Source projects and learn ML & Genrative AI
 - 💬 Ask me about world and cloud 😀
 
 ### Connect with me:
 
 [<img align="left" alt="pritul95.github.io" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="pritul95 | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="pritul95 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="pritul95 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 
